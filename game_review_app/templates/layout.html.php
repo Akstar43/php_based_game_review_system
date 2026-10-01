@@ -12,11 +12,13 @@
         <ul>
             <li><a href="index.php">Home</a></li>
             <li><a href="gamereview.php">Games List</a></li>
+            <li><a href="addgame.php">Add new game</a></li>
+            <li><a href="addreview.php">Add n</a></li>
         </ul>
     </nav>
     <main>
         <?= $output ?>
     </main>
-    <footer>&copy; IJDB 2026 </footer>
+    <footer>&copy; Abdulkadir Mustafa 2026 </footer>
 </body>
 </html>
